@@ -1,5 +1,5 @@
 # Cube rotation 
-This project was made by me using sfml, I learned very much from it. I started it on March 1th, and really liked doing this project.
+This project was made by me using sfml, I learned very much from it. I started it on April 1th, and really liked doing this project.
 It uses:
 - Rotation Matrix (x,y)
 - Classes
