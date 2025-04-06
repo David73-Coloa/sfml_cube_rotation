@@ -1,3 +1,10 @@
+# Cube rotation 
+This project was made by me using sfml, I learned very much from it. I started it on March 1th, and really liked doing this project.
+It uses:
+- Rotation Matrix (x,y)
+- Classes
+- Sfml lib
+
 # CMake SFML Project Template
 
 This repository template should allow for a fast and hassle-free kick start of your next SFML project using CMake.
